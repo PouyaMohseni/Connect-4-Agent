@@ -7,7 +7,7 @@ This document presents the final project for the artificial intelligence course,
 |---------|---------------------|-----------------------------|--------------|-----|---------------------|---------------|-----------|
 | ✓       | ✓                   | ✓                           | ✓            | ✓   | ✓                   | ✓             | ✓         |
 
-For the complete report, including detailed explanations and code implementation, refer to the [Report PDF]([link-to-report-pdf](https://drive.google.com/file/d/165qKsNC48F9CUJmH_l0MQaXiAbx4HXmI/view?usp=drive_web).
+For the complete report, including detailed explanations and code implementation, refer to the [Report PDF](https://drive.google.com/file/d/165qKsNC48F9CUJmH_l0MQaXiAbx4HXmI/view?usp=drive_web).
 
 
 ## 1. Introduction
